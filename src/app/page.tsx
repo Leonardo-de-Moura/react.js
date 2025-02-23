@@ -16,6 +16,7 @@ export default function Home() {
 
       <div>
         <Input type="email" placeholder="Digite seu email"></Input>
+        <Input type="email" placeholder="Digite seu email" error></Input>
       </div>
     </main>
   );
